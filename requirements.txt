@@ -1,0 +1,8 @@
+cv2
+mediapipe
+math
+pyautogui
+numpy
+screen_brightness_control
+subprocess
+sys
