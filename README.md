@@ -59,7 +59,7 @@ This system can be used in a variety of scenarios:
 - *Gaming*: It can be used to create a more immersive gaming experience.
 
 # Hand Detection, logic used
-![handlandmark](https://github.com/Parthiba-Mukhopadhyay/hand_gesture_media_player/assets/89331202/80c7e10e-48ac-44c5-90ea-be40643f6cab)
+![handlandmark]([https://github.com/Parthiba-Mukhopadhyay/hand_gesture_media_player/assets/89331202/80c7e10e-48ac-44c5-90ea-be40643f6cab](https://developers.google.com/static/mediapipe/images/solutions/hand-landmarks.png))
 <br>
 The following reference points are considered for hand landmark detection.
 <br>
