@@ -30,11 +30,6 @@ Welcome to the 'System Control with Hand Gestures' project! This project allows 
 </details>
 
 <details>
-<summary>Double Click</summary>
- <figcaption>Execute a double click when both index and middle fingertip on thumb..</figcaption>
-</details>
-
-<details>
 <summary>Delete</summary>
  <figcaption>Delete files or text by performing a gun hand gesture.</figcaption>
 </details>
