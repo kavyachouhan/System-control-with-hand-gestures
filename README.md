@@ -83,7 +83,7 @@ To run the project, you will need the following:
 1. Clone the project repository from GitHub:
 
    shell
-   git clone https://github.com/Parthiba-Mukhopadhyay/hand_gesture_media_player
+   git clone https://github.com/kavyachouhan/System-control-with-hand-gestures.git
    
 
 2. Install the required dependencies using pip:
