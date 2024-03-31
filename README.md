@@ -9,7 +9,6 @@ Welcome to the 'System Control with Hand Gestures' project! This project allows 
 <details>
 <summary>Neutral Gesture</summary>
  <figure>
-  <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/palm.gif" alt="Palm" width="711" height="400"><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
 </figure>
 </details>
@@ -17,38 +16,37 @@ Welcome to the 'System Control with Hand Gestures' project! This project allows 
 
 <details>
 <summary>Virtual Mouse</summary>
-  <img src="https://github.com/xenon-19/Gesture_Controller/blob/e20edfb1f368ffa600d96bd91031942ec97cb2ab/demo_media/move%20mouse.gif" alt="Move Cursor" width="711" height="400"><br>
   <figcaption>Control your mouse cursor with hand movements. Cursor is assigned to the midpoint of index and middle fingertips.</figcaption>
 </details>
 
 <details>
 <summary>Left Click</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/left%20click.gif" alt="Left Click" width="711" height="400"><br>
  <figcaption>Perform left mouse clicks when index fingertip on thumb.</figcaption>
 </details>
 
 <details>
 <summary>Right Click</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/right%20click.gif" alt="Right Click" width="711" height="400"><br>
  <figcaption>Perform right mouse clicks when middle fingertip on thumb.</figcaption>
 </details>
 
 <details>
 <summary>Double Click</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/double%20click.gif" alt="Double Click" width="711" height="400"><br>
- <figcaption>Execute a double click.</figcaption>
+ <figcaption>Execute a double click when both index and middle fingertip on thumb..</figcaption>
 </details>
 
 <details>
 <summary>Delete</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/double%20click.gif" alt="Double Click" width="711" height="400"><br>
  <figcaption>Delete files or text by performing a gun hand gesture.</figcaption>
 </details>
 
 <details>
 <summary>Brightness Control</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/Brigntness%20Control.gif" alt="Brightness Control" width="711" height="400"><br>
  <figcaption>Adjust your screen's brightness level with a simple pinch hand movement. The rate of increase/decrease of brightness is proportional to the distance moved by pinch gesture from start point. </figcaption>
+</details>
+
+<details>
+<summary>Air Canvas</summary>
+ <figcaption>Launch air canvas by performing a thumbs up hand gesture.figcaption>
 </details>
 
 # Use Cases
